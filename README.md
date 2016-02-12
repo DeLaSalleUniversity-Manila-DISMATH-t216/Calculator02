@@ -1,6 +1,6 @@
 # Calculator02
 
-![jcinsanity](Screenshot 001)
+![jcinsanity](Screenshot 001.PNG)
 
 ~~~
 package ph.edu.dlsu;
